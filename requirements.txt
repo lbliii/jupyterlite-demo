@@ -1,3 +1,6 @@
+# Pachyderm Mount Extension
+jupyterlab-pachyderm>=2.5.4
+
 # Core modules (mandatory)
 jupyterlite-core==0.1.0
 jupyterlab~=3.5.1
